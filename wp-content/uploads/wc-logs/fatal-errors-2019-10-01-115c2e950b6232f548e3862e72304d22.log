@@ -2,3 +2,20 @@
 
 2019-10-01T02:42:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-admin\includes\template.php on line 12
 
+2019-10-01T04:13:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-admin\includes\post.php on line 20
+
+2019-10-01T04:19:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-content\plugins\woocommerce-admin\src\API\Products.php on line 12
+
+2019-10-01T04:19:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-includes\wp-db.php on line 2007
+
+
+2019-10-01T04:19:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-admin\includes\post.php on line 20
+
+2019-10-01T04:19:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-admin\includes\post.php on line 20
+
+2019-10-01T04:19:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-admin\includes\post.php on line 20
+
+2019-10-01T04:19:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-admin\includes\post.php on line 20
+
+2019-10-01T04:28:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-admin\includes\plugin.php on line 68
+

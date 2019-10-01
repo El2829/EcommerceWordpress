@@ -25,7 +25,7 @@
 <body class="banner-area" <?php body_class(); ?>>
 	<nav id="menu" class="navbar navbar-expand-lg navbar-dark bg-dark" role="navigation">
 		<div class="site-branding navbar-brand">
-			<a href="<?php echo esc_url(home_url('/')); ?>" class="navbar-brand"><span class="logo">Angel's Accessories</span></a>
+			<a href="http://localhost:8080/EcommerceWordpress/shop/" class="navbar-brand"><span class="logo">Angel's Accessories</span></a>
 		</div><!-- .site-branding -->
 
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -35,7 +35,7 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="nav navbar-nav navbar-right ml-auto">
 				<li class="nav-item">
-					<a class="nav-link" href="<?php echo esc_url(home_url('/')); ?>">Home <span class="sr-only">(current)</span></a>
+					<a class="nav-link" href="http://localhost:8080/EcommerceWordpress/shop/">Home <span class="sr-only">(current)</span></a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="http://localhost:8080/EcommerceWordpress/about-us/">About</a>
@@ -44,7 +44,7 @@
 					<a class="nav-link" href="http://localhost:8080/EcommerceWordpress/contact-us/">Contact</a>
 				</li>
 				<li class="nav-item dropdown">
-					<a class="nav-link" href="http://localhost:8080/EcommerceWordpress/shop/">Shop</a>
+					<a class="nav-link" href="http://localhost:8080/EcommerceWordpress/cart/">Cart</a>
 				</li>
 			</ul>
 		</div>
@@ -61,3 +61,6 @@
 		<div id="content" class="site-content row">
 
 		</div>
+
+
+		
