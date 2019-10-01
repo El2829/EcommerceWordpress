@@ -1,0 +1,4 @@
+2019-10-01T00:42:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-includes\wp-db.php on line 2007
+
+2019-10-01T02:42:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-admin\includes\template.php on line 12
+

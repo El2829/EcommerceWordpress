@@ -10,9 +10,6 @@ RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /EcommerceWordpress/index.php [L]
-
-php_value max_execution_time 300
-
 </IfModule>
 
 # END WordPress
