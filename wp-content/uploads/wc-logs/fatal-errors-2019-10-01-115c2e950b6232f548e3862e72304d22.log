@@ -19,3 +19,5 @@
 
 2019-10-01T04:28:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-admin\includes\plugin.php on line 68
 
+2019-10-01T18:48:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-content\plugins\jetpack\vendor\automattic\jetpack-sync\src\Defaults.php on line 5
+
