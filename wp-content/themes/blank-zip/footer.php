@@ -17,7 +17,7 @@
 <footer id="colophon" class="site-footer footer-area bg-dark text-primary">
 	<div class="site-info">
 		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
-			<p>&copy; All Right Reserved By <a href="" target="_blank">Angelito</a></p>
+			<p>&copy; All Right Reserved By <a href="https://github.com/El2829" target="_blank">Angelito</a></p>
 			<!--edit here-->
 			<div class="footer-icons">
 
