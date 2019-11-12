@@ -1,0 +1,8 @@
+2019-11-08T17:43:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-content\plugins\woocommerce-admin\vendor\composer\ClassLoader.php on line 384
+
+2019-11-08T17:44:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-includes\wp-db.php on line 2007
+
+2019-11-08T18:05:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-includes\wp-db.php on line 2007
+
+2019-11-08T18:06:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\EcommerceWordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
